@@ -1,5 +1,6 @@
 import { Client } from "revolt.js";
 import axios from "axios";
+import 'dotenv/config';
 
 // ─── Load token from Replit Secrets ───────────────────────────────────────────
 const TOKEN = process.env.REVOLT_BOT_TOKEN?.trim();
