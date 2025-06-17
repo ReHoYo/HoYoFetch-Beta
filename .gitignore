@@ -1,0 +1,10 @@
+# Noodle modules
+node_modules/
+
+# Environment variables 
+.env
+
+# Optional: macOS BS / editor files
+.DS_Store
+*.log
+npm-debug.log*
