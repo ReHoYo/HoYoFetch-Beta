@@ -1,4 +1,6 @@
-# HoYoFetch Bot
+# HoYoFetch Beta
+
+# This bot may be unstable so use it at your own risk.
 
 A simple Revolt bot that fetches the latest Hoyoverse gift codes using the Hoyocode API.
 
